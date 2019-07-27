@@ -1,0 +1,1 @@
+1. GUI is the main program. 2. GUI Admin is used to select the type of training. 3. The prediction is done by predict file. 4. The traines dataset has 17 images of skin diseases.
